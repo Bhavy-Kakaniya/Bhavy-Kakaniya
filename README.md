@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Bhavy Kakaniya  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Java+Developer;Frontend+Web+Developer;Open+Source+Contributor;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=500&lines=Web+Developer...;Programmer...;Always+Learning+New+Things...)](https://git.io/typing-svg)
 
 💻 Passionate about **coding, web development, and dsa**  
 🌱 Currently learning **Full Stack, and Other Programming Languages**  
