@@ -8,14 +8,8 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Bhavy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavy-Kakaniya&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔥 Top Languages 
-[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bhavy-Kakaniya&layout=compact&theme=tokyonight&exclude_repo=Data-Science)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bhavy-Kakaniya&layout=compact&theme=tokyonight&exclude_repo=Data-Science)
 ---
 
 ## 🌐 Connect with Me  
